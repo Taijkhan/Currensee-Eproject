@@ -24,7 +24,7 @@
 * **Admin Dashboard:** A dedicated Admin Panel is available for administrative oversight.
 * **User Management:** The Admin can view all registered users.
 * **Transaction Monitoring:** The Admin can view all user conversion requests and transactions saved within the Admin Panel.
-* **Credentials:** Admin access credentials are provided in a separate file for security.
+* **Access Details:** Admin credentials and usage instructions are provided in the **Developer Guide** document and demonstrated in the **`currensee ScreenRecoding`** file, both located in the project root folder.
 
 ## ⚙️ **Non-Functional Requirements**
 
@@ -44,31 +44,37 @@
 
 ### ⬇️ **Installation Steps**
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [Your Repository URL]
-    ```
+1.  **Clone the Repository:**
+    ```bash
+    git clone [Your Repository URL]
+    ```
 
-2.  **Navigate to Project Folder:**
-    ```bash
-    cd [Your-Project-Folder-Name]
-    ```
+2.  **Navigate to Project Folder:**
+    ```bash
+    cd [Your-Project-Folder-Name]
+    ```
 
-3.  **Install Dependencies:**
-    Upon opening the folder, **run `flutter pub get`** to install all required packages:
-    ```bash
-    flutter pub get
-    ```
+3.  **Install Dependencies:**
+    Upon opening the folder, **run `flutter pub get`** to install all required packages:
+    ```bash
+    flutter pub get
+    ```
 
-4.  **Run the Application:**
-    Select your desired device/simulator and run:
-    ```bash
-    flutter run
-    ```
+4.  **Run the Application:**
+    Select your desired device/simulator and run:
+    ```bash
+    flutter run
+    ```
 
-5.  **Admin Access:**
-    Admin Panel credentials are located in the **[Specify the Admin Credentials File Name Here]** file.
+5.  **Admin Access:**
+    Admin Panel credentials are located in the **[Specify the Admin Credentials File Name Here]** file.
+    
+    *Replaced with final details in the full text above.*
 
 ## 🤝 **Contributing**
 
 We welcome contributions! Please open an issue in the **Issues** section or submit a **Pull Request (PR)** with any suggestions or bug reports.
+
+## 📄 **License**
+
+This project is licensed under the **[Specify Your License Here, e.g., MIT License]**. See the `LICENSE` file for more details.
