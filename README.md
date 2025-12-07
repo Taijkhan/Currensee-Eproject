@@ -46,12 +46,12 @@ The **CurrenSee** application is designed to meet the financial needs of a broad
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/Taijkhan/Currensee-Eproject.git
     ```
 
 2.  **Navigate to Project Folder:**
     ```bash
-    cd [Your-Project-Folder-Name]
+    cd CurrenSee
     ```
 
 3.  **Install Dependencies:**
@@ -70,8 +70,8 @@ The **CurrenSee** application is designed to meet the financial needs of a broad
 
 We welcome contributions! Please open an issue in the **Issues** section or submit a **Pull Request (PR)** with any suggestions or bug reports.
 
+
 ## 📄 **License**
 
-This project is licensed under the **[Specify Your License Here, e.g., MIT License]**. See the `LICENSE` file for more details.
-
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 ---
